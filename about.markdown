@@ -1,18 +1,14 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
+comments: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Typed Thoughts is where I document the reasoning behind real engineering decisions.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Not just how code was written, but why it was written that way — and what almost went wrong along the way.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here you'll find reflections on Git workflows, hotfixes, production pressure, and the subtle trade-offs that shape software systems.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Clear thinking. Practical lessons. Real-world context.
